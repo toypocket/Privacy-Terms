@@ -1,4 +1,4 @@
-# Privacy-Terms
+# Privacy Policy/Terms of Service
 - プライバシーポリシーと利用規約を管理するリポジトリです。
 
 ## Caraby 利用規約(Terms of Service)
