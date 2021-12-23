@@ -7,3 +7,9 @@
 
 ## Caraby プライバシーポリシー(Privacy Policy) - Japanese
 - [**プライバシーポリシー**の記載はこちら](https://github.com/toypocket/Privacy-Terms/blob/main/Terms/README_Privacy.md)
+
+## Caraby - Terms of Service - English
+- 記載予定
+
+## Caraby - Privacy Policy - English
+- 記載予定
