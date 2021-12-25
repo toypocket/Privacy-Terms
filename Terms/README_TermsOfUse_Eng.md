@@ -55,3 +55,46 @@ This service may include services or contents (referred to as "Alliance Services
 5. Caraby reserve in advance the right to discontinue permission or provision of paid content, whether purchased or not, at our discretion.
 
 ## Prohibited Matters
+The customer must not perform any of the following acts regarding the use of this service.
+1. Account registration and use of minors without the consent of a legal representative such as a parent or guardian
+2. Acts that violate laws, court decisions, decisions or orders, or legally binding administrative measures
+3. Acts that may harm public order or good manners and customs
+4. Providing benefits to antisocial forces and other cooperative acts
+5. Acts that infringe the copyright, trademark rights, intellectual property rights of patent examination, honor rights, privacy rights, other laws or contractual rights, and legally protected interests of the Company or a third party.
+6. Acts of lending, exchanging, transferring, changing the name, buying or selling, pledged, providing collateral, or otherwise letting a third party use or dispose of the right to use or data of this content by a method other than the method specified by the Company.
+7. Sales, publicity, advertising, solicitation, or other commercial activities (excluding those approved by the Company), religious activities or solicitations to religious organizations, acts aimed at harassing or degrading third parties, Other acts of using this service for purposes different from the intended use of this service.
+8. Acts aimed at sexual or obscene acts, acts aimed at meeting or dating unfamiliar opposite sex.
+9. The act of displaying or displaying information equivalent to child pornography or child abuse.
+10. Excessively violent expressions, explicit sexual expressions, expressions that lead to discrimination based on race, nationality, creed, gender, social status, family origin, etc., suicide, self-harm, expressions that induce or encourage substance abuse, etc. Expressions or acts that offend others, including social content.
+11. Acts of impersonating the Company or a third party or intentionally disseminating false information.
+12. Unauthorized collection, disclosure, or provision of personal information, registration information, usage history information, etc. of a third party.
+13. Unauthorized access, use of third party user ID, receiving multiple user IDs, and other similar acts.
+14. Acts that interfere with the server or network system of this service, acts that illegally operate the service using BOT, cheat tools, or other technical means, acts that intentionally use defects of this service, or similar Acts of making unreasonable requests to the Company, such as repeating inquiries more than necessary, and other acts that interfere with the use of the Service by third parties when operating the Service by the Company.
+15. Acts that assist, encourage or promote any of the above.
+16. Other acts that the Company deems inappropriate.
+
+## Customer responsibility
+1. The customer shall use this service at the customer's own risk, and shall bear all responsibility for all actions taken in this service and the results thereof.
+2. If we find that you are using this service in violation of this agreement, we will take measures that we deem necessary and appropriate. However, we have no obligation to prevent or correct such violations.
+3. The customer has caused any damages (including attorney's fees) directly or indirectly by the Company due to the use of this service (including the case where the Company receives a complaint caused by such use from a third party). In case of suffering (including burden), you must compensate for this according to our request.
+
+## Unsubscribe Caraby Account
+The user shall be able to withdraw from this service by the withdrawal procedure specified by this application.
+
+## Disclaimer
+1. The Company does not accept liability for guaranteeing that there is no legal defects(safety, reliability, accuracy, completeness, effectiveness, fitness for a particular purpose,  security, etc.) in the Services(including the Content), errors, bugs, infringement of rights, etc. either explicitly or implicitly.
+2. We are not responsible for any damage caused to you due to this service. However, if the contract between us and the customer regarding this service (including this agreement) is a consumer contract stipulated in the Consumer Contract Law, this disclaimer does not apply.
+3. Even in the case specified in the proviso of 2. above, the Company shall suffer damages caused by special circumstances among the damages caused to the customer due to default or illegal acts due to the Company's negligence (excluding gross negligence) (the Company or the customer). We do not take any responsibility for foreseeing or foreseeing the occurrence of damage).
+
+## Change of Terms and Conditions
+We may revise this agreement as necessary. However, if the revision requires the consent of the customer by law, this agreement after the revision will be applied only to the user who has agreed to the revision by the method prescribed by the Company. In case of revision, we will notify you of the revision by posting on our website or other methods that are easy for users to understand.
+
+## Contact the developer
+1. We will contact you regarding this service by posting it at an appropriate place on this service or the website operated by our company, or by any other method that we deem appropriate.
+2. Customers regarding this service should contact us by sending an inquiry form set up at an appropriate location within this service or the website operated by us, or by the method specified by us.
+
+## Languages, Governing Law, Jurisdiction
+The governing law of this agreement shall be Japanese law. The Tokyo District Court shall be the exclusive agreement jurisdictional court of the first instance for any dispute that arises between the customer and the Company due to or in connection with this service.
+
+## Last updated
+26 December, 2021
