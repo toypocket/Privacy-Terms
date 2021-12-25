@@ -33,9 +33,25 @@ We recognize that your privacy and personal information are important to you and
 3. If we deem it necessary, we will not notify you in advance, and at any time, all or part of the contents of this service (uses, rules, design, audiovisual expression, effect, parameter, scenario, including all other matters) may be changed, and its provision may be suspended.
 
 ## Advertisement
-Toypocket can place advertisements of the Company or a third party on this service.
+Caraby can place advertisements of the Company or a third party on this service.
 
 ## Services of Alliance Partners
-This service may include services or contents (referred to as "Alliance Services") provided by other businesses affiliated with Toypocket. The business operator that provides this is responsible for the Alliance services. In addition, the terms of services and other conditions set by the business operator that provides the Alliance Services may apply.
+This service may include services or contents (referred to as "Alliance Services") provided by other businesses affiliated with Caraby. The business operator that provides this is responsible for the Alliance services. In addition, the terms of services and other conditions set by the business operator that provides the Alliance Services may apply.
 
 ## Contents
+1. Caraby grants the customer the non-exclusive right to use the Service, which cannot be transferred or sublicensed, with respect to the Content provided by Caraby.
+2. The customer must not use (including acts such as duplication, transmission, reprinting, and modification) of Content on the Services beyond the usage pattern planned by this service.
+3. You are responsible for backing up the posted content. Caraby is not obligated to back up the posted content.
+4. This service may include a function that allows multiple customers to post, modify, delete, etc. In this case, you authorize other customers to edit your posted content.
+5. You retain your rights to the posted content as before and we do not acquire such rights. However, as long as the posted content is open to the general public of other customers who are not friends, the customer has the right to use it for services and promotions (to the extent that we deem necessary and appropriate). Includes the right to make changes such as omissions, and also includes the right to sublicense such usage rights to a third party affiliated with Caraby), which is agreed to be granted free of charge, indefinitely, and without limitation to the region.
+6. Caraby can check the content of posted content when it is necessary to check the status of compliance with laws and regulations or this agreement. However, we are not obligated to make such a confirmation.
+7. If Caraby finds that you violate or may violate the law or this agreement regarding the posted content, or if there is any other business need, we will post the posted content without notifying you in advance. We can restrict the use of posted content of this service by deleting it.
+
+## Paid Services
+1. Caraby may provide content (hereinafter referred to as "paid content") to which non-exclusive usage rights are granted by paying a separate consideration within this service. In the following, it is referred to as "purchase" of paid content, which refers to the granting of non-exclusive usage rights of paid content for a fee.
+2. You may not return or cancel purchased paid content. The cooling-off system stipulated in the Act on Specified Commercial Transactions (Act No. 57 of June 4, 1981) does not apply to the purchase of paid content. We are not obligated to refund the price of purchased paid content, but reserve the right to take measures such as refund at our sole discretion.
+3. If you are a minor, you can purchase paid content only with the prior consent of your legal representative.
+4. By purchasing certain paid content, you are granted the non-exclusive right to use the paid content only within this service, but the copyright and other intellectual property related to the paid content. The rights are reserved by us or a third party who has licensed us to use the rights.
+5. Caraby reserve in advance the right to discontinue permission or provision of paid content, whether purchased or not, at our discretion.
+
+## Prohibited Matters
