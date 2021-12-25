@@ -35,4 +35,7 @@ We recognize that your privacy and personal information are important to you and
 ## Advertisement
 Toypocket can place advertisements of the Company or a third party on this service.
 
-##
+## Services of Alliance Partners
+This service may include services or contents (referred to as "Alliance Services") provided by other businesses affiliated with Toypocket. The business operator that provides this is responsible for the Alliance services. In addition, the terms of services and other conditions set by the business operator that provides the Alliance Services may apply.
+
+## Contents
