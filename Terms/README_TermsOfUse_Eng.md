@@ -18,3 +18,11 @@ These Terms of Service ("terms") govern your access to and use of our service, i
 ## Acount
 1. When you register for yourself when using the Services, you must provide truthful, accurate and complete information and make sure that it is always up to date.
 2. When you register a password when using this service, you must strictly manage it at your own risk so that it will not be used illegally. We can consider any act performed using the registered password as the act of the customer responsibility.
+3. Customers who have registered for this service can delete their account and unsubscribe at any time.
+4. If we find that you violate or may violate this agreement, we may suspend the use of this service, or suspend or delete your account without notifying you in advance.
+5. We may delete an account that has been accessed for more than one year without prior notice to you.
+6. All your rights to use the Services will expire when your account is deleted for any reason. Please note that even if you accidentally delete your account, you will not be able to recover your account.
+7. The account of this service belongs to the customer exclusively, and the customer's right to use this service cannot be transferred, lent, set collateral, or otherwise disposed of or inherited to a third party.
+
+## Privacy
+We recognize that your privacy and personal information are important to you and believe that your privacy should be fully guaranteed. Personal data and personal data collected by this service will be handled appropriately in accordance with the Caraby Privacy Policy (Permalink).
