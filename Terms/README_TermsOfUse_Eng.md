@@ -13,3 +13,8 @@ These Terms of Service ("terms") govern your access to and use of our service, i
 3. Minors can not use this service by any method other than 2. If we determine that you are a minor based on posting, chatting or other acts within this service, we may take necessary actions such as deleting your account without notifying you in advance.
 4. When the customer uses this service for a business operator, the authorized representative of the operator or the person in charge entrusted by the authorized representative agrees to this agreement before using this service.
 5. By actually using this service, you are deemed to have given valid and irrevocable consent to this agreement.
+6. If there are individual terms of use for this service or the campaign of this service, the customer must use this service in accordance with the provisions of these terms as well as this terms of services.
+
+## Acount
+1. When you register for yourself when using the Services, you must provide truthful, accurate and complete information and make sure that it is always up to date.
+2. When you register a password when using this service, you must strictly manage it at your own risk so that it will not be used illegally. We can consider any act performed using the registered password as the act of the customer responsibility.
