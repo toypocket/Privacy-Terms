@@ -26,3 +26,13 @@ These Terms of Service ("terms") govern your access to and use of our service, i
 
 ## Privacy
 We recognize that your privacy and personal information are important to you and believe that your privacy should be fully guaranteed. Personal data and personal data collected by this service will be handled appropriately in accordance with the Caraby Privacy Policy (Permalink).
+
+## Provision of Services
+1. In order to use this service, the customer must prepare the necessary smart devices, communication equipment, operating systems, communication means, power, etc. at the customer's expense and responsibility. If the customer is a minor, please use the one approved by the legal agent such as a parent or guardian.
+2. We can provide all or part of this service only to customers who meet the age, identity verification, registration information, and other conditions that we deem necessary.
+3. If we deem it necessary, we will not notify you in advance, and at any time, all or part of the contents of this service (uses, rules, design, audiovisual expression, effect, parameter, scenario, including all other matters) may be changed, and its provision may be suspended.
+
+## Advertisement
+Toypocket can place advertisements of the Company or a third party on this service.
+
+##
