@@ -51,4 +51,4 @@ The Toypocket Privacy Policy applies to matters not stipulated in this policy.
 
 ## Last updated
 26 December, 2021
-We change this policy at our discretion. However, if there is a change in the acquired user information, purpose of use, or provision to a third party, we will notify you on this application or our website, and after changing this policy, we will obtain consent from the user again when this application is started for the first time.
+
