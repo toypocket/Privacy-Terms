@@ -25,7 +25,7 @@ These Terms of Service ("terms") govern your access to and use of our service, i
 7. The account of this service belongs to the customer exclusively, and the customer's right to use this service cannot be transferred, lent, set collateral, or otherwise disposed of or inherited to a third party.
 
 ## Privacy
-We recognize that your privacy and personal information are important to you and believe that your privacy should be fully guaranteed. Personal data and personal data collected by this service will be handled appropriately in accordance with the Caraby Privacy Policy (Permalink).
+We recognize that your privacy and personal information are important to you and believe that your privacy should be fully guaranteed. Personal data and personal data collected by this service will be handled appropriately in accordance with the Caraby Privacy Policy (https://github.com/toypocket/Privacy-Terms/blob/main/Terms/README_Privacy_Eng.md).
 
 ## Provision of Services
 1. In order to use this service, the customer must prepare the necessary smart devices, communication equipment, operating systems, communication means, power, etc. at the customer's expense and responsibility. If the customer is a minor, please use the one approved by the legal agent such as a parent or guardian.
